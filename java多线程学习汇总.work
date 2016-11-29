@@ -1,5 +1,5 @@
 java 多线程总结学习汇总
-volatiles
-ynchronized
+volatile
+synchronized
 lock
 execute
